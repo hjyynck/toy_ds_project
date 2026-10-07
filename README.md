@@ -1,2 +1,2 @@
-project creation date : 2026 October 7th\n
+project creation date : 2026 October 7th  
 author Junyu Huang
